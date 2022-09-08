@@ -8,20 +8,33 @@
 
 
 This project is the first C project as part of the alx_africa curriculum, and covers the very basics of compilation and C.
+## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
+*File> 0-preprocessor: is a script that runs a C file through the preprocessor and save the result into another file.
+### input: `gcc -E $CFILE -o c`
 
-File 0-preprocessor is a script that runs a C file through the preprocessor and save the result into another file.
+## 1. Write a script that compiles a C file but does not link.
+*File> 1-compiler: is a script that compiles a C file but does not link.
+### input: `gcc -c $CFILE`
 
-File 1-compiler is a script that compiles a C file but does not link.
+## 2. Write a script that generates the assembly code of a C code and save it in an output file.
+*File> 2-assembler: is a script that generates the assembly code of a C code and save it in an output file.
+### input: `gcc $CFILE -S`
 
-File 2-assembler is a script that generates the assembly code of a C code and save it in an output file.
+## 3. Write a script that compiles a C file and creates an executable named `cisfun`.
+*File>> 3-name: is a script that compiles a C file and creates an executable named cisfun.
+### input: `gcc $CFILE -o cisfun`
 
-File 3-name is a script that compiles a C file and creates an executable named cisfun.
+### 4. Write a C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
+*File>> 4-puts.c: is a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+### input: check inside the file `4-puts.c` to see code.
 
-File 4-puts.c is a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+## 5. Write a C program that prints exactly `with proper grammar, but the outcome is a piece of art`, followed by a new line.
+*File> 5-printf.c: is a C program that prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line.
+### input: check inside the file `5-printf.c` to see code.
 
-File 5-printf.c is a C program that prints exactly "with proper grammar, but the outcome is a piece of art,", followed by a new line.
-
-File 6-size.c is a C program that prints the size of various types on the computer it is compiled and run on.
+## 6. Write a C program that prints the size of various types on the computer it is compiled and run on.
+*File> 6-size.c: is a C program that prints the size of various types on the computer it is compiled and run on.
+### inout: check inside the file `6-size.c` to see code.
 
 File 100-intel is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 

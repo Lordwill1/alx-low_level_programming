@@ -1,8 +1,7 @@
-![image](https://user-images.githubusercontent.com/105258746/189422562-d96e8ff1-5c0f-4e6e-8be1-1a0172a93910.png)
+[All the files will be compiled on Ubuntu 20.04 LTS![image](https://user-images.githubusercontent.com/105258746/189422562-d96e8ff1-5c0f-4e6e-8be1-1a0172a93910.png) using gcc]
 
 # Project on 0x01. C - Variables, if, else, while
 
-## All your files will be compiled on Ubuntu 20.04 LTS using gcc
 
 ### `File 0-positive_or_negative.c`: is a C program that will assign a random number to the variable n each time it is executed, using an if statement.
 

@@ -24,7 +24,7 @@ This project is the first C project as part of the alx_africa curriculum, and co
 * File>> 3-name: is a script that compiles a C file and creates an executable named cisfun.
 ### input: `gcc $CFILE -o cisfun`
 
-### 4. Write a C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
+## 4. Write a C program that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
 * File>> 4-puts.c: is a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 ### input: check inside the file `4-puts.c` to see code.
 

@@ -10,3 +10,5 @@
 - File: `6-size.c`
 - File: `100-intel`
 - File: `101-quote.c`
+
+## And other projects directory

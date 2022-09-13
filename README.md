@@ -1,6 +1,8 @@
 # This repository contains `alx` C projects and other low level programming exercices.
 
-## File content
+# Content
+## C 
+### File content
 - File: `0-preprocessor`
 - File: `1-compiler`
 - File: `2-assembler`

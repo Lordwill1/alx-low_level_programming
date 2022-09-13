@@ -5,17 +5,16 @@
  * @date 2022-09-13
  *
  */
-#include <main.h>
+#include <unistd.h>
 
 /**
- * main -  function is the entry point of the program
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
  *
- * Returns: 0 if the program ends successfully
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
-int main(void)
+int _putchar(char c)
 {
-char *message = "_putchar";
-_putchar(message);
-_putchar('\n');
-return (0);
+	return (write(1, &c, 1));
 }

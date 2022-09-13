@@ -1,11 +1,21 @@
-#include <stdio.h>
+/**
+ * @file 0-putchar.c
+ * @author Godswill Kalu
+ * @brief Algorithm to print a message in a specific language
+ * @date 2022-09-13
+ *
+ */
+#include <main.h>
 
 /**
- *main prints out _putchar
- *return (0) success 
+ * main -  function is the entry point of the program
+ *
+ * Returns: 0 if the program ends successfully
  */
 int main(void)
 {
-	printf("_putchar\n");
-	return (0);
+char *message = "_putchar";
+_putchar(message);
+_putchar('\n');
+return (0);
 }

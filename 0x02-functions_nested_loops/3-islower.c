@@ -1,7 +1,6 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * Name: Godswill kalu
  * _islower - checks for lowercase character
  * @c: the character to check
  * Return: 1 if c is lowercase, 0 otherwise

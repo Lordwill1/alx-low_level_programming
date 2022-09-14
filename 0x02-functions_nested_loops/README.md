@@ -29,7 +29,9 @@
 #### ==> File `10-add.c` is a function that adds two integers and returns the result.
 
 #### ==> File `11-print_to_98.c` is a function that prints all natural numbers from n to 98, followed by a new line.
-#### =======> File `_putchar.c` contains the _putchar() function definition.
+```
+File: `_putchar.c` contains the _putchar() function definition.
+```
 
 ## Advanced Task
 

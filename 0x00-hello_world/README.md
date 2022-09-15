@@ -6,11 +6,9 @@
 (From your terminal, convert the file created to `SCRIPT` i.e: chmod u+x filename)
 
 
-~~~~
-This project is the first C project as 
-part of the alx_africa curriculum, 
-and covers the very basics of compilation and C.
-~~~~
+
+This project is the first C project as part of the alx_africa curriculum, and covers the very basics of compilation and C.
+
 ## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
 * File> 0-preprocessor: is a script that runs a C file through the preprocessor and save the result into another file.
 ### input: `gcc -E $CFILE -o c`

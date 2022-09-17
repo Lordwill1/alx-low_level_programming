@@ -96,6 +96,7 @@ Fix the code in 2-largest_number.c so that it correctly prints out the largest o
 
 ## File: 3-print_remaining_days.c, main.h
 This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+### NOTE: FOR YOU TO UNDERSTAND THE CODE ON SAMPLE 2, YOU NEED KNOWLEDGE OF LOGIC TRUTH TABLE.
 
 * Code sample 1
 ```
@@ -127,7 +128,9 @@ int main(void)
 }
 ```
 
-* Code sample 2
+* Code sample 2 (You need knowledge on logic truth table)
+![image](https://user-images.githubusercontent.com/105258746/190833251-a0bc604c-af0d-468d-884e-53387e3c6a18.png)
+
 ```
 #include <stdio.h>
 #include "main.h"

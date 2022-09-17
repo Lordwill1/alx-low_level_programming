@@ -270,3 +270,14 @@ carrie@ubuntu:/debugging$
 * Line count will not be checked for this task.
 - You can assume that all test cases have valid months (i.e. the value of month will never be less than 1 or greater than 12) and valid days (i.e. the value of day will never be less than 1 or greater than 31).
 - You can assume that all test cases have valid month/day combinations (i.e. there will never be a June 31st or November 31st, etc.), but not all month/day/year combinations are valid (i.e. February 29, 1991 or February 29, 2427).
+
+
+# AS A PROGRAMMER, WHAT DO YOU DO WHEN YOU GET STUCK?
+- To help you track down that bug, start reading your code aloud. 
+- Pretend that a programmer friend is sitting right next to you. 
+- Explain what your code is doing and how it works. As you talk through your code, you’ll find the problem. If you don’t, have your imaginary friend ask you questions during your explanation.
+- Don’t worry about going mental. You’re a C programmer. You’re already mental. 😅
+
+
+As a bonus, talking through your code also helps you identify which portions need to have comments and what the comments should be.
+

@@ -5,7 +5,7 @@ ALX Cohort 9![image](https://user-images.githubusercontent.com/105258746/1899623
 ### AS A PROGRAMMER, WHAT DO YOU DO WHEN YOU GET STUCK?
 - To help you track down that bug, start reading your code aloud. 
 - Pretend that a programmer friend is sitting right next to you. 
-- Explain what your code is doing and how it works. As you talk through your code, you’ll find the problem. If you don’t, have your imaginary friend ask you questions during your explanation.
+- Explain what your code is doing and how it works. As you talk through your code, you’ll find the problem. If you don’t, have your imaginary friend ask you questions during your explanation., 9-fizz_buzz.c, 100-prime_factor.c, 101-print_number.c
 `Don’t worry about going mental. You’re a C programmer. You’re already mental.` 😅
 
 
@@ -13,14 +13,11 @@ As a bonus, talking through your code also helps you identify which portions nee
 
 
 # Content
-## - [0x00-hello_world project](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x00-hello_world)
-- File: `0-preprocessor` ___File: `1-compiler` ___File: `2-assembler` 
-- File: `3-name` ___File: `4-puts.c` ___File: `5-printf.c` 
-- File: `6-size.c` ___File: `100-intel` ___File: `101-quote.c`
+Directory | Files
+--------- | -----
+[0x00-hello_world project](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x00-hello_world) | 0-preprocessor,1-compiler,2-assembler,3-name,4-puts.c,5-printf.c,6-size.c,100-intel,101-quote.c
+[0x01-variables_if_else_while](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x01-variables_if_else_while) | 0-positive_or_negative.c,1-last_digit.c,2-print_alphabet.c,3-print_alphabets.c,4-print_alphabt.c,5-print_numbers.c,6-print_numberz.c,7-print_tebahpla.c,8-print_base16.c,9-print_comb.c,100-print_comb3.c,101-print_comb4.c,102-print_comb5.c
+[0x02-functions_nested_loops](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x02-functions_nested_loops) | main.h,0-putchar.c,1-alphabet.c,2-print_alphabet_x10.c,3-islower.c,4-isalpha.c,5-sign.c,6-abs.c,7-print_last_digit.c,8-24_hours.c,9-times_table.c,_putchar.c,100-times_table.c,101-natural.c,102-fibonacci.c,103-fibonacci.c,104-fibonacci.c
+[0x03-debugging](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x03-debugging) | main.h, 0-main.c, 1-main.c, 2-largest_number.c, 3-convert_day.c, 3-main_a.c, 3-print_remaining_days.c
+[0x04-more_functions_nested_loops](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops) | main.h, 0-isupper.c, 1-isdigit.c, 2-mul.c, 3-print_numbers.c, 4-print_most_numbers.c, 5-more_numbers.c, 6-print_line.c, 7-print_diagonal.c, 8-print_square.c, 9-fizz_buzz.c, 100-prime_factor.c, 101-print_number.c
 
-## - [0x01-variables_if_else_while](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
-
-## - [0x02-functions_nested_loops](https://github.com/Lordwill1/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
-
-
-### And other project directories

@@ -217,7 +217,7 @@ int convert_day(int month, int day)
 }
 ```
 
-* Code sample 2 (This is the code we are to work on)
+* Code sample 3 (This is the code we are to work on)
 ```
 #include <stdio.h>
 #include "main.h"

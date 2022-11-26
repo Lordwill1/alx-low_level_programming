@@ -1,5 +1,5 @@
 # 0x15. C - File I/O
-## Resources 
+## Resources:
 ### Read or watch:
 
 [File descriptors](https://en.wikipedia.org/wiki/File_descriptor)

@@ -10,4 +10,4 @@ File 100-realloc.c is a function that reallocates a memory block using malloc an
 
 File 101-mul.c is a program that multiplies two positive numbers.
 
-File main.h is the header file for all the function prototypes.
+File main.h is the header file for all the function prototypes..

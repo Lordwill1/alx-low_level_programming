@@ -85,6 +85,7 @@ and functions written for the project.
 * **9. Crackme4**
   * [100-password](./100-password): Text file containing the password for the
   [crackme4](https://github.com/holbertonschool/0x16.c) executable.
+  ## Use the following command on your terminal for your code to be checked currectly `echo -n "906609" > 102-result`
 
 * **10. Palindromes**
   * [102-result](./102-result): Text file containing the largest palindrome made from a
